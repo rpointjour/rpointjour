@@ -1,4 +1,9 @@
-### Hi there 👋
+### Greetings! 😄
+
+
+![image](https://user-images.githubusercontent.com/54840122/202833752-d7580145-630d-4fcd-be22-f7e69f4d7f56.png)
+
+I’m currently learning RTOS and Linux.
 
 <!--
 **rpointjour/rpointjour** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
