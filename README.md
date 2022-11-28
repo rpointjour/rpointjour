@@ -1,7 +1,12 @@
 ### Greetings! 😄
 
 
-![image](https://user-images.githubusercontent.com/54840122/202833752-d7580145-630d-4fcd-be22-f7e69f4d7f56.png)
+![image](https://user-images.githubusercontent.com/54840122/204197284-76e2c1cc-b693-4313-be2c-bb794add6b59.png)
+
+
+
+
+
 
 I’m currently learning RTOS and Linux.
 
