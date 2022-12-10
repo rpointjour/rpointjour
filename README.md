@@ -1,7 +1,7 @@
 ### Greetings! 😄
 
 
-![image](https://user-images.githubusercontent.com/54840122/204197284-76e2c1cc-b693-4313-be2c-bb794add6b59.png)
+<img src="https://user-images.githubusercontent.com/54840122/204197284-76e2c1cc-b693-4313-be2c-bb794add6b59.png" alt="FreeRTOS" style="width:50%;height:50%;">
 
 
 
