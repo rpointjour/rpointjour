@@ -1,13 +1,8 @@
-### Greetings! 😄
+### Greetings!
 
+<img src="https://github.com/user-attachments/assets/7a096ab4-9e9c-46e3-9acf-3d4cb7f5060f" alt="RJP World" style="width:50%;height:50%;">
 
-<img src="https://github.com/rpointjour/rpointjour/assets/54840122/5f9a489e-4a8a-4ea9-99a4-30fccc0dd975" alt="FreeRTOS" style="width:50%;height:50%;">
-
-
-
-
-
-
+#
 I am currently focused on building Machine Learning/AI applications.
 
 <!--
